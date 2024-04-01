@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wkb1990
+- 👀 I’m interested in developing my python skills.
+- 🌱 I’m currently learning python.
